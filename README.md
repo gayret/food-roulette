@@ -1,2 +1,2 @@
 # food-roulette
-"Bugün ne pişirsem" düşüncesinin daha kısa sürede yanıtlanmasını sağlamak amacıyla yapılmış basit bir app.
+"Bugün ne pişirsem" sorusunun daha kısa sürede yanıtlanmasını sağlamak amacıyla yapılmış basit bir app.
